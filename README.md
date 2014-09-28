@@ -1,9 +1,10 @@
 Javascript
 ==========
 
-擔任教導大一JS的助教
+擔任教導大一JS的助教  
 
-## 關於換行...
+
+# 關於換行...
 
 關於換行的部分，大家可能有注意到在 `marxi.co` 能用 enter 做換行  
 但實際上在 `Markdown` 的語法中，原始碼的換行轉換出來的結果並不會換行  
@@ -13,4 +14,3 @@ Javascript
 
 ![After](http://i.imgur.com/6267mn7.png)
 
-Sample Markdown Cheat Sheet
