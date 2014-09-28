@@ -1,7 +1,12 @@
 Javascript
 ==========
 
-擔任教導大一JS的助教  
+擔任教導大一JS的助教    
+測試環境：[點我](http://repl.it/languages/JavaScript)
+#基本語法
+console.log()
+prompt()
+
 
 
 # 關於換行...
